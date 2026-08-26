@@ -30,15 +30,15 @@ Source code is **not published yet**. It will be released here after the contest
 
 ![Wave 10](screenshots/03-wave10.png)
 
-*Wave 10 — The Grave Caller, and a level-up draft.*
+*Wave 10 — The Grave Caller and a packed graveyard.*
 
 ![Wave 15](screenshots/04-wave15.png)
 
-*Wave 15 — The Molten One. Late-wave shots used the in-game cheats menu (G).*
+*Wave 15 — The Molten One. Late waves used the in-game cheats (G) so the horde could be photographed.*
 
 ![Wave 20](screenshots/05-wave20.png)
 
-*Wave 20 — Your Shadow, fighting with a copy of your own weapons.*
+*Wave 20 — Your Shadow in the middle of the horde.*
 
 ## The game
 
