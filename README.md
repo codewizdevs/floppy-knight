@@ -17,6 +17,29 @@ Entry for the [1.44MB Game Development Contest](https://2pgarcade.com/contest-14
 
 Source code is **not published yet**. It will be released here after the contest ends.
 
+
+## Screenshots
+
+![Title screen](screenshots/01-title.png)
+
+*Title — pick a difficulty, class, and starting weapon.*
+
+![Wave 1](screenshots/02-wave1.png)
+
+*Wave 1 — torchlight, orbs, the first gems.*
+
+![Wave 10](screenshots/03-wave10.png)
+
+*Wave 10 — The Grave Caller, and a level-up draft.*
+
+![Wave 15](screenshots/04-wave15.png)
+
+*Wave 15 — The Molten One. Late-wave shots used the in-game cheats menu (G).*
+
+![Wave 20](screenshots/05-wave20.png)
+
+*Wave 20 — Your Shadow, fighting with a copy of your own weapons.*
+
 ## The game
 
 You are a knight in a torchlit arena, and the dead will not stop coming. Survive one wave and a bigger one follows. Level up, draft new powers mid-fight, and see how deep into the night you can go.
